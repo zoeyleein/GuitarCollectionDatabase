@@ -1,4 +1,4 @@
-![](image.introduction-1)
-![](image.introduction-2)
-![](image.introduction-3)
-![](image.introduction-4)
+![](images/introduction-1)
+![](images/introduction-2)
+![](images/introduction-3)
+![](images/introduction-4)
